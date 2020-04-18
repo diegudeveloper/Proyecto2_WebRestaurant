@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container_all {
+    width: 100%;
+    height: 470px;
+    display: flex;
+    
+}
+
+.container_all .container_ourteam {
+    width: 48%;
+    background-color: #4f2c1d;
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container_all .container_ourteam .container_concept {
+    text-align: justify;
+
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 15%;
+}
+
+.container_all .container_ourteam .container_concept h2 {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+
+
+
+.container_all .container_3text {
+    width: 52%;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/img/About_us/our_team3.jpg);
+    background-color: rgb(20, 20, 20);
+    background-blend-mode: soft-light;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    object-fit: cover;
+    
+    
+}
+
+.container_all .container_3text .text {
+    width: 50%;
+    text-align: center;
+    color: #fff;
+    padding: 4%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container_all .container_3text .text h3 {
+    margin-bottom: 1rem;
+}
+
+.container_all .container_3text .text p {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 1rem;
+}
+
+.container_all .container_3text div {
+    text-align: center;
+    color: #fff;
+    padding: 5%;
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+

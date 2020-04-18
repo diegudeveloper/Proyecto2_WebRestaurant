@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.OUR_CAFE {
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+    padding-bottom: 60px;
+}
+
+.OUR_CAFE .container_all {
+    width: 100%;
+    height: 100%;
+    /*background-color: #f2f2f2;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+
+.OUR_CAFE .container_all .text_container {
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.OUR_CAFE .container_all .text_container p {
+    padding: 0 25%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.OUR_CAFE .container_all .card_cafe {
+    width: 20%;
+    height: 450px;
+    /*border: 1px solid black;*/
+    overflow: hidden;
+    box-shadow: 10px 5px 5px 0 rgba(43,55,96,1);
+    text-align: center;
+}
+
+.OUR_CAFE .container_all .card_cafe h3 {
+    margin-top: 0.5rem;
+}
+
+.OUR_CAFE .container_all .card_cafe p {
+    margin-top: 0.5rem;
+}
+
+.OUR_CAFE .container_all .card_cafe img {
+    width: 100%;
+    max-width: 100%;
+    height: 350px;
+    object-fit: cover;
+    
+}
+

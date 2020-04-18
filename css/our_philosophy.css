@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.OUR_PHILOSOPHY {
+    background-color: #f2f2f2;
+}
+
+.container_ourphilosophy {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 60px;
+    display: flex;
+}
+
+.container_ourphilosophy .picture {
+    width: 48%;
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.container_ourphilosophy .picture div {
+    width: 33%;
+    height: 350px;
+    
+
+}
+
+.container_ourphilosophy .picture div img {
+    width: 100%;
+    max-width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.container_ourphilosophy .container_text {
+    width: 48%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+
+.container_ourphilosophy .container_text h2 {
+    width: 100%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    
+}
+
+.container_ourphilosophy .container_text p {
+    width: 100%;
+    text-align: justify;
+    font-size: 18px;
+}
