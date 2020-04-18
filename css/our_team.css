@@ -44,7 +44,7 @@
     width: 52%;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(img/About_us/our_team3.jpg);
+    background-image: url(../img/About_us/our_team3.jpg);
     background-color: rgb(20, 20, 20);
     background-blend-mode: soft-light;
     background-position: center;
