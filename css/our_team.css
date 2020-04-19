@@ -37,9 +37,6 @@
     margin-top: 2rem;
 }
 
-
-
-
 .container_all .container_3text {
     width: 52%;
     display: flex;
@@ -50,9 +47,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    object-fit: cover;
-    
-    
+    object-fit: cover;   
 }
 
 .container_all .container_3text .text {
@@ -81,11 +76,19 @@
     color: #fff;
     padding: 5%;
 
-    
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+/**********Media queri*********/
+
+@media screen and (max-width: 768px) {
+    .container_all .container_3text .text {
+        padding: 1px;
+        margin: 0;
+    }
 }
 
 

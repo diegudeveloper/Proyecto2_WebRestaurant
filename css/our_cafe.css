@@ -58,3 +58,15 @@
     
 }
 
+/**********Media queri*********/
+
+@media screen and (max-width: 768px) {
+    .OUR_CAFE .container_all .card_cafe {
+        width: 25%;
+    }
+    
+    .OUR_CAFE .container_all .text_container p {
+        padding: 0 15%;
+    }
+}
+

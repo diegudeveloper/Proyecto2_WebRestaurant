@@ -27,8 +27,6 @@
 .container_ourphilosophy .picture div {
     width: 33%;
     height: 350px;
-    
-
 }
 
 .container_ourphilosophy .picture div img {
@@ -59,4 +57,22 @@
     width: 100%;
     text-align: justify;
     font-size: 18px;
+}
+
+
+/**********Media queri*********/
+
+@media screen and (max-width: 768px) {
+    .container_ourphilosophy {
+        width: 100%;
+    }
+
+    .container_ourphilosophy .picture {
+        width: 50%;
+        padding-left: 1rem;
+    }
+
+    .container_ourphilosophy .container_text {
+        width: 50%;
+    }
 }
