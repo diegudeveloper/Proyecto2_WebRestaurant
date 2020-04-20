@@ -75,6 +75,7 @@
 /******* media *******/
 
 @media screen and (max-width: 768px) {
+
     .container_main .container_menu img {
         display: none;
     }
@@ -91,7 +92,6 @@
         height: auto;
         top: 80%;
         position: absolute;
-        
     }
 
     .container_main {
@@ -105,10 +105,35 @@
 
     .container_main .container_banner img {
         height: 600px;
+    } 
+}
+
+@media screen and (max-width: 700px) {
+    .container_main .container_all .container_menu {
+        margin-left: 0;
     }
+
+    .container_main .container_all .container_menu .menu {
+        position: fixed;
+        justify-content: center;
+        align-items: center;
         
+    }
     
 }
 
+@media screen and (max-width: 500px) {
+    .container_main {
+        height: 400px;
+    }
+
+    .container_main .container_banner {
+        height: 400px;
+    }
+
+    .container_main .container_banner img {
+        height: 400px;
+    } 
+}
 
 

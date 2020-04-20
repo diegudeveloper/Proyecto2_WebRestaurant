@@ -152,6 +152,27 @@
     border-radius: 5px;
 }
 
+/*********meaid queri*********/
+
+@media screen and (max-width: 550px) {
+    .OUR_FOOD .container_allfood .icons .conta1, .conta2, .conta3, .conta4 {
+        width: 220px;
+        height: 220px;
+        overflow: hidden;
+        padding: 1%;
+        margin-bottom: 0;
+    }
+
+    .OUR_FOOD .container_allfood .picture .conta5, .conta6, .conta7, .conta8 {
+        width: 220px;
+        height: 220px;
+        overflow: hidden;
+        padding: 1%;
+        margin-bottom: 1;
+    }
+    
+}
+
 
 
 

@@ -53,3 +53,20 @@
     transition: all 300ms;
 }
 
+@media screen and (max-width: 550px) {
+    .OUR_TREATS .galery {
+        justify-content: center;
+    }
+    .OUR_TREATS .galery .foto {
+        width: 33.333%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .OUR_TREATS .galery .foto {
+        width: 50%
+    }
+}
+
+
+

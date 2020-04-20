@@ -76,3 +76,25 @@
         width: 50%;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .container_ourphilosophy .container_text p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .container_ourphilosophy {
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    .container_ourphilosophy .picture {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .container_ourphilosophy .container_text {
+        width: 100%;
+    }
+}

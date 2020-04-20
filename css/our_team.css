@@ -6,8 +6,9 @@
 
 .container_all {
     width: 100%;
-    height: 470px;
+    /*height: 470px;*/
     display: flex;
+    flex-wrap: wrap;
     
 }
 
@@ -88,6 +89,46 @@
     .container_all .container_3text .text {
         padding: 1px;
         margin: 0;
+    }
+
+    .container_all .container_3text .text h3 {
+        font-size: 15px;
+    }
+    .container_all .container_3text div > h3 {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .container_all .container_ourteam .container_concept {
+        padding: 5%;
+    }
+
+    .container_all .container_ourteam {
+        width: 40%;
+    }
+
+    .container_all .container_3text {
+        width: 60%;
+    }
+
+    .container_all .container_3text .text {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .container_all .container_3text .text p {
+        padding: 0 1%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .container_all .container_ourteam {
+        width: 100%;
+    }
+
+    .container_all .container_3text {
+        width: 100%;
     }
 }
 

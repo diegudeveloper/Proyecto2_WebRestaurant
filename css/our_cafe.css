@@ -70,3 +70,10 @@
     }
 }
 
+@media screen and (max-width: 400px) {
+    .OUR_CAFE .container_all .card_cafe {
+        width: 90%;
+        margin-bottom: 3%;
+    }
+}
+
