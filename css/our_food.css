@@ -168,9 +168,27 @@
         height: 220px;
         overflow: hidden;
         padding: 1%;
-        margin-bottom: 1;
+        margin-bottom: 0;
     }
     
+}
+
+@media screen and (max-width: 400px) {
+    .OUR_FOOD .container_allfood {
+        flex-wrap: wrap;
+    }
+
+    .OUR_FOOD .container_allfood .icons {
+    width: 90%;
+    }
+
+    .OUR_FOOD .container_allfood .picture {
+    width: 90%;
+    }
+    
+    .OUR_FOOD .container_allfood .icons .conta1, .conta2, .conta3, .conta4 {
+        margin-bottom: 2%;
+    }
 }
 
 

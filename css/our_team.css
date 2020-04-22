@@ -122,13 +122,20 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
+    .container_all .container_ourteam .container_concept {
+        justify-content: center;
+    }
     .container_all .container_ourteam {
         width: 100%;
     }
 
     .container_all .container_3text {
         width: 100%;
+    }
+
+    .container_all .container_3text .text {
+        padding: 5%;
     }
 }
 
