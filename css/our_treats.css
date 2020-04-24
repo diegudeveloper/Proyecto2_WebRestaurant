@@ -68,5 +68,12 @@
     }
 }
 
+@media screen and (max-width: 400px) {
+    .OUR_TREATS .galery .foto {
+        width: 90%;
+        margin-bottom: 3px;
+    }
+}
+
 
 

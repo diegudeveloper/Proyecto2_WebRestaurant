@@ -126,3 +126,22 @@
     text-align: center;
 }
 
+@media screen and (max-width: 400px) {
+    .our_contact .container_ourcontact {
+        padding-bottom: 0;
+    }
+    .our_contact .container_ourcontact .formulario {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .our_contact .container_ourcontact .formulario .container_formulario {
+        width: 100%;
+    }
+
+    .our_contact .container_ourcontact .container_Map {
+        width: 100%;
+    }
+
+}
+

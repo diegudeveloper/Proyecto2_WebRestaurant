@@ -187,7 +187,12 @@
     }
     
     .OUR_FOOD .container_allfood .icons .conta1, .conta2, .conta3, .conta4 {
+        width: 90%;
         margin-bottom: 2%;
+    }
+
+    .OUR_FOOD .container_allfood .picture .conta5, .conta6, .conta7, .conta8 {
+        width: 90%;
     }
 }
 
