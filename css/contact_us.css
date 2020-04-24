@@ -23,8 +23,6 @@
 
 .our_contact .container_ourcontact .container_ourcontacttext h3 {
     margin-bottom: 30px;
-    
-   
 }
 
 .our_contact .container_ourcontact .container_ourcontacttext p {
@@ -32,7 +30,6 @@
     padding: 0 20%;
     margin-top: 20px;
     padding-bottom: 60px;
-
 }
 
 /******* FORMULARIO ********/
@@ -48,8 +45,7 @@
     margin-left: auto;
     margin-right: auto;
     border-radius: 5px;
-    border: 1px solid black;
-    
+    border: 1px solid black; 
 }
 
 .our_contact .container_ourcontact .formulario .container_formulario .for {
@@ -111,7 +107,6 @@
 }
 
 
-
 .our_contact .container_ourcontact .container_Map .container_ubicacion {
     width: 100%;
     text-align: center;
@@ -142,6 +137,5 @@
     .our_contact .container_ourcontact .container_Map {
         width: 100%;
     }
-
 }
 

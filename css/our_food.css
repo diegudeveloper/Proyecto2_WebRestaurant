@@ -77,8 +77,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
-   
+    text-align: center; 
 }
 
 .OUR_FOOD .container_allfood .icons .conta2 {
@@ -169,8 +168,7 @@
         overflow: hidden;
         padding: 1%;
         margin-bottom: 0;
-    }
-    
+    } 
 }
 
 @media screen and (max-width: 400px) {

@@ -50,7 +50,6 @@
     width: 100%;
     margin-bottom: 2rem;
     margin-top: 2rem;
-    
 }
 
 .container_ourphilosophy .container_text p {
@@ -87,8 +86,7 @@
     .container_ourphilosophy {
         display: flex;
         flex-wrap: wrap-reverse;
-        padding-bottom: 0;
-        
+        padding-bottom: 0; 
     }
     .container_ourphilosophy .picture {
         width: 100%;
@@ -102,8 +100,5 @@
 
     .container_ourphilosophy .picture {
         padding-top: 0;
-        
     }
-
-    
 }

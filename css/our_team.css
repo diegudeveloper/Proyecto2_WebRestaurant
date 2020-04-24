@@ -6,10 +6,8 @@
 
 .container_all {
     width: 100%;
-    /*height: 470px;*/
     display: flex;
     flex-wrap: wrap;
-    
 }
 
 .container_all .container_ourteam {
@@ -25,7 +23,6 @@
 
 .container_all .container_ourteam .container_concept {
     text-align: justify;
-
     padding-top: 30px;
     display: flex;
     flex-wrap: wrap;
