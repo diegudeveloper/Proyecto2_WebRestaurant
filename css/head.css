@@ -20,7 +20,7 @@
     margin-right: auto;
     margin-left: auto;
     background-color: #0000;
-
+    z-index: 1000;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -60,6 +60,7 @@
 
 .container_main .menu ul li {
     list-style: none;
+    ;
 }
 
 .container_main .menu ul li a {
@@ -89,11 +90,7 @@
         height: 100vh;
         width: 100%;
         background: rgba(51, 51, 51, 0.9);
-        z-index: 100;
-    }
-
-    .container_main .contenido img {
-        z-index: -1;
+        position: absolute;
     }
 
     .container_main .menu ul {
@@ -125,5 +122,13 @@
 
     #btn-menu:checked ~ .menu {
         transform: translateX(0);
+    }
+
+       
+    .container_main .contenido img {
+        width: 250px;
+        max-width: 250px;
+        min-width: 250px;
+        height: auto;  
     }
 }
