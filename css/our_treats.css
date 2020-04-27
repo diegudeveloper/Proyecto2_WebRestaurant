@@ -63,14 +63,20 @@
 
 @media screen and (max-width: 400px) {
     .OUR_TREATS .galery .foto {
-        width: 50%
-    }
-}
-
-@media screen and (max-width: 400px) {
-    .OUR_TREATS .galery .foto {
         width: 90%;
         margin-bottom: 3px;
+    }
+
+    .OUR_TREATS .text_treatas {
+        width: 100%;
+        padding: 0 2%;
+        margin-top: 2rem;
+    }
+
+    .OUR_TREATS .text_treatas p {
+        margin-bottom: 2rem;
+        text-align: justify;
+        padding: 0 2%;
     }
 }
 

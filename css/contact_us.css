@@ -131,11 +131,25 @@
     }
 
     .our_contact .container_ourcontact .formulario .container_formulario {
-        width: 100%;
+        width: 90%;
     }
 
     .our_contact .container_ourcontact .container_Map {
-        width: 100%;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2rem;
+    }
+
+    .our_contact .container_ourcontact .container_ourcontacttext {
+        padding-top: 0;
+        margin-top: 2rem;
+    }
+
+    .our_contact .container_ourcontact .container_ourcontacttext p {
+        padding: 0 2%;
+        margin-bottom: 2rem;
+        text-align: justify;
     }
 }
 

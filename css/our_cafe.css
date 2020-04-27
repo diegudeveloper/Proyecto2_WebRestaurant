@@ -70,8 +70,20 @@
 
 @media screen and (max-width: 400px) {
     .OUR_CAFE .container_all .card_cafe {
-        width: 90%;
+        width: 80%;
         margin-bottom: 3%;
+    }
+
+    .OUR_CAFE .container_all .text_container {
+        margin-top: 2rem;
+        padding-top: 0;
+    }
+
+    .OUR_CAFE .container_all .text_container p {
+        text-align: justify;
+        font-size: 14px;
+        margin-bottom: 2rem;
+        padding: 0 3%
     }
 }
 
