@@ -27,3 +27,4 @@ El proyecto cuenta con el Responsive Desing o Diseño Adaptativo para que el mis
 A continuación se adjuta la imagen del Proyecto:
 
 Pantalla de Pc
+
