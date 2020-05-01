@@ -4,6 +4,8 @@ Proyecto de Página Web aplicando Maquetación / Posicionamiento de cajas con la
 
 En el proyecto se busca mostrar todos los conocimientos aprendido asi como las buenas prácticas y el desarrollo del mismo con el menor código posible, utilizando el modelo de diseño flexbox y Rensposive Desing.
 
+Adicionalmente se sealiza el Menu Hamburguesa representado por 3 franja que hace referencia a un desplegable y se usa para el menú principal de una web, sobre todo para las versiones móviles. 
+
 La maquetación web es el proceso en el que el prototipo gráfico también denominado «layout» pasa a transformase en código html, css y js (estándares web) para que los navegadores puedan interpretarlo correctamente.
 
 Flex es uno de los nuevos valores HTML5 para propiedad CSS display , que nos permite maquetar nuestras páginas web de una manera mucho más fácil de lo que se hacía con la forma tradicional, en la que utilizábamos propiedades como float o position, entre otras.
@@ -27,4 +29,6 @@ El proyecto cuenta con el Responsive Desing o Diseño Adaptativo para que el mis
 A continuación se adjuta la imagen del Proyecto:
 
 Pantalla de Pc
+
+![screencapture-127-0-0-1-5500-index-html-2020-05-01-09_08_57](https://user-images.githubusercontent.com/62949966/80807676-cdf01600-8b8b-11ea-8e67-033943604e41.png)
 
