@@ -15,15 +15,13 @@ Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 2](https:/
 <details>
     <summary>🖥 Desktop version</summary>
 
-![](src/img/Dessktop2.png)
-![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/desktop.png)
+![](https://github.com/diegudeveloper/Proyecto2_WebRestaurant/blob/gh-pages/img/Dessktop2.png)
 
 </details>
 
 <details>
     <summary>📱 Mobile version</summary>
-
-![](src/img/movil2.png.png)    
-![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/movil.jpg)
+  
+![](https://github.com/diegudeveloper/Proyecto2_WebRestaurant/blob/gh-pages/img/movil2.png)
 
 </details>
